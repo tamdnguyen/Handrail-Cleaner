@@ -3,7 +3,9 @@
 My project for the course ELEC-C9801 Design Thinking and Electronic Prototyping
 in Autumn 2021 (First year).
 
-Click [here](final_code.ino) to quickly get to the code.
+[Click here](final_code.ino) to quickly get to the code.
+
+![alt text](https://github.com/tamdnguyen/Handrail-Cleaner/blob/main/Handrail%20Cleaner.png?raw=true)
 
 ## Introduction
 - Team members: Himanshu Jain, Nguyen Gia Khanh, Saku Kovanen, Nguyen Duc Tam
@@ -21,6 +23,9 @@ and other big buildings, homeowners
   - 4 x HC-SR04 ultrasonic distance sensor
   - Microfiber cloths
 - Software
-  - 
+  - [Controlling motors](move_with_l298n.ino)
+  - [Connecting and retrieving data from sensors](ultrasonic_sensor.ino)
+  - [Base code for connecting sensors](retest_hc-sr04.ino)
+
 https://user-images.githubusercontent.com/95592965/145734519-16925650-df71-443d-8957-13d38b1f1c00.mp4
 
