@@ -5,6 +5,8 @@ in Autumn 2021 (First year).
 
 [Click here](final_code.ino) to quickly get to the code.
 
+[Click here](https://docs.google.com/document/d/1wveGc616cJaY4SPK8Y3A3aw1okHfnBMEzXkyp0WId9o/edit#heading=h.h3806heg0gy9) to read the full project deliverables (i.e., ideas, purposes, research findings, prototype, etc.)
+
 ![alt text](https://github.com/tamdnguyen/Handrail-Cleaner/blob/main/Handrail%20Cleaner.png?raw=true)
 
 ## Introduction
